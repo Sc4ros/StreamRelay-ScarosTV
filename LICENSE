@@ -1,26 +1,21 @@
-Copyright (c) 2026 Sc4ros. Tous droits réservés.
-
-Ce dépôt (textes, images, captures d'écran, logos, schémas et code) est publié uniquement pour être consulté.
-
-Aucune licence n'est accordée. Sans autorisation écrite préalable du titulaire des droits, il est interdit
-de copier, reproduire, modifier, adapter, traduire, distribuer, publier, vendre ou réutiliser tout ou partie
-de ce contenu, y compris le code d'exemple, à des fins commerciales ou non.
-
-Les noms « Stream Relay » et « Scaros TV » ainsi que leurs logos ne peuvent pas être utilisés sans
-autorisation.
-
-Le contenu est fourni « tel quel », sans aucune garantie.
-
----
-
 Copyright (c) 2026 Sc4ros. All rights reserved.
 
-This repository (text, images, screenshots, logos, diagrams and code) is published for viewing only.
+This software, including its source code, documentation and assets (the "Software"),
+is the exclusive property of its author, Sc4ros.
 
-No license is granted. Without prior written permission from the copyright holder, you may not copy,
-reproduce, modify, adapt, translate, distribute, publish, sell or reuse any part of this content, including
-the example code, for any purpose, commercial or not.
+No license or right is granted, either expressly or by implication. Without the prior
+written permission of the author, you may not:
+  - copy, reproduce or redistribute the Software, in whole or in part;
+  - modify, adapt, translate or create derivative works of the Software;
+  - sell, rent, sublicense or otherwise commercially exploit the Software;
+  - remove or alter this copyright notice.
 
-The names "Stream Relay" and "Scaros TV" and their logos may not be used without permission.
+Publishing the source code on a public platform (such as GitHub) only allows it to be
+viewed and used as permitted by that platform's Terms of Service; it does not constitute
+a license.
 
-The content is provided "as is", without any warranty.
+Any third-party components included in the Software remain subject to their own licenses,
+which are provided alongside those components.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THE SOFTWARE.
